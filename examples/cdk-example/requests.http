@@ -1,0 +1,7 @@
+### Record patient tempreature
+POST   https://j6xabwkdr7.execute-api.eu-west-2.amazonaws.com/prod/patient/1
+content-type: application/json
+
+{
+    "temperature": 39
+}
